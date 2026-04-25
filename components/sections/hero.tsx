@@ -322,7 +322,7 @@ const HeroSection = () => {
           <div className="animate-slide-left flex justify-center lg:justify-start">
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-gradient-to-r from-cyan-500/10 to-purple-500/10 border border-cyan-400/30 backdrop-blur-sm">
               <div className="w-2 h-2 bg-cyan-400 rounded-full animate-pulse" />
-              <span className="text-xs font-semibold text-cyan-300">Powered by Advanced AI</span>
+              <span className="text-xs font-semibold text-cyan-300">25-26J-249</span>
             </div>
           </div>
 
@@ -438,7 +438,7 @@ const HeroSection = () => {
               <div className="absolute inset-0 bg-gradient-to-br from-cyan-600/15 to-transparent pointer-events-none" />
               
               <Image
-                src="/images/diagrams/main-diagram.gif"
+                src="/images/exoplanet/homepage.gif"
                 alt="Exoplanet discovery system overview"
                 width={500}
                 height={500}

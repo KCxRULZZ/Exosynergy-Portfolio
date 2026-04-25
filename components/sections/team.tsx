@@ -4,7 +4,7 @@ import { Users, Star, Orbit, Crown, Users2, Zap, Brain, Code2, BarChart3, Lightb
 const supervisors = [
   {
     id: "supervisor-1",
-    name: "Samadhi Rathnayake",
+    name: "Mr. Samadhi Rathnayake",
     role: "Supervisor",
     avatar: "/images/members/Samadhi-sir.png",
     icon: Crown,
@@ -13,7 +13,7 @@ const supervisors = [
   },
   {
     id: "supervisor-2",
-    name: "Kapila Dissanayaka",
+    name: "Dr. Kapila Dissanayake",
     role: "Co-Supervisor",
     avatar: "/images/members/Kapila-sir.png",
     icon: Star,
@@ -27,7 +27,7 @@ const members = [
     id: "member-1",
     name: "Heidi",
     role: "Project Lead",
-    avatar: "/images/members/Heidi.png",
+    avatar: "/images/members/heidi.png",
     icon: Users2,
     color: "from-indigo-500 to-blue-500",
     accentColor: "indigo"
@@ -36,7 +36,7 @@ const members = [
     id: "member-2",
     name: "Kaveesha",
     role: "Researcher",
-    avatar: "/images/members/Kaveesha.png",
+    avatar: "/images/members/kaveesha.png",
     icon: Lightbulb,
     color: "from-green-500 to-cyan-500",
     accentColor: "green"
@@ -45,7 +45,7 @@ const members = [
     id: "member-3",
     name: "Chamudi",
     role: "Lead Developer",
-    avatar: "/images/members/Chamudi.png",
+    avatar: "/images/members/chamudhi.png",
     icon: Code2,
     color: "from-orange-500 to-red-500",
     accentColor: "orange"
@@ -54,7 +54,7 @@ const members = [
     id: "member-4",
     name: "Akila",
     role: "Data Scientist",
-    avatar: "/images/members/Akila.png",
+    avatar: "/images/members/himaja.png",
     icon: BarChart3,
     color: "from-rose-500 to-pink-500",
     accentColor: "rose"

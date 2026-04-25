@@ -27,7 +27,8 @@ const Header = () => {
   };
 
   return (
-    <section className="py-4 bg-gradient-to-b from-transparent to-indigo-50/30 dark:to-indigo-950/20">
+    // <section className="py-4 bg-gradient-to-b from-transparent to-indigo-50/30 dark:to-indigo-950/20">
+    <section className="sticky top-0 z-50 py-4 bg-gradient-to-b from-transparent to-indigo-50/30 dark:to-indigo-950/20">
       <style>{`
         @keyframes floatSmooth {
           0%, 100% { transform: translateY(0px) rotate(-5deg); }
