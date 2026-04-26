@@ -431,20 +431,20 @@ const sectionIndex: SectionEntry[] = [
   {
     label: "Project Proposal",
     sub: [
-      { label: "Project Presentation", link: "https://drive.google.com/file/d/1q6gEEJLU3GGs-fVGJnhTSmxaJL_K1POI/preview" },
+      { label: "Project Presentation", link: "https://drive.google.com/file/d/1990kIZJ-Oq0q8v41YVzbLmOZpVpLNuco/view?usp=sharing" },
       { label: "Project Document — H.A.H.E.K Hettiarachchi  IT22323248", link: "https://drive.google.com/pseudo/project-doc-hettiarachchi" },
       { label: "Project Document — Fernando M.K.C  IT22346254", link: "https://drive.google.com/pseudo/project-doc-fernando" },
-      { label: "Project Document — Tissera W A H  IT22026866", link: "https://drive.google.com/pseudo/project-doc-tissera" },
+      { label: "Project Document — Tissera W A H  IT22026866", link: "https://drive.google.com/file/d/1bXghk8j4PLOyZqSVusOBv22NuJGSfyeg/view?usp=sharing" },
       { label: "Project Document — C I Abeywickrama  IT22343048", link: "https://drive.google.com/pseudo/project-doc-abeywickrama" },
     ],
   },
   {
     label: "Progress Presentation 01",
-    link: "https://drive.google.com/file/d/14T3lXm5brQm1RJqTP_yYNgWaaLUJGcuk/view?usp=sharing",
+    link: "https://drive.google.com/file/d/1WMqrWKO-CcgIAkdvCI8is1g0SfgWaoAg/view?usp=sharing",
   },
   {
     label: "Progress Presentation 02",
-    link: "https://drive.google.com/file/d/1H5VPyYKjSOaFYkehhmm_ncrmKF2IFXK5/view?usp=sharing",
+    link: "https://drive.google.com/file/d/1fz-Od0yh3bcLrUWwAm9DX_JHKdy2vc8-/view?usp=sharing",
   },
   {
     label: "Final Presentation",
